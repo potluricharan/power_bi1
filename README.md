@@ -2,8 +2,9 @@
 ##Project Objective 
 <br>
 To analyze how Netflix movies and TV shows are distributed across countries by rating, duration, type, and directors.
-<br> 
-Questions answered-
+<br>
+
+#Questions answered-
 
 Which countries have the highest number of rated titles on Netflix?
 
