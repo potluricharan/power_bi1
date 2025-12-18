@@ -4,6 +4,7 @@
 To analyze how Netflix movies and TV shows are distributed across countries by rating, duration, type, and directors.
 <br> 
 Questions answered-
+
 Which countries have the highest number of rated titles on Netflix?
 
 Which countries have the highest number of titles by duration (i.e., total count of movies/TV shows)?
