@@ -1,10 +1,10 @@
 # Netflix data_analysis
-##Project Objective 
+## Project Objective 
 <br>
 To analyze how Netflix movies and TV shows are distributed across countries by rating, duration, type, and directors.
 <br>
 
-#Questions answered-
+## Questions answered-
 
 Which countries have the highest number of rated titles on Netflix?
 
@@ -16,6 +16,6 @@ How are titles distributed by type (Movie, TV Show, Unknown) across different co
 
 Which countries contribute the most directors to Netflix content?
 
-#Dashboard Screenshot-
+## Dashboard Screenshot-
 https://github.com/potluricharan/power_bi1/blob/main/snap_shot.png
 
